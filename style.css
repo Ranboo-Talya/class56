@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background:linear-gradient(#c5e8e2 0%, #7bab7c 100%);
+}
+h1{
+    font-size: 42px;
+    font-family: 'Architects Daughter', cursive;
+    font-weight: 300;
+    color: #00387d;
+    text-shadow: 5px 5px 5px aqua;
+}
+p{
+    font-size: 25px;
+    font-family: monospace;
+    color: #000288;
+    text-shadow: 2px 2px 5px aqua;
+    line-height: 1.2;
+}
